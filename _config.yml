@@ -2,5 +2,4 @@ name: Hawken's AsianCon ePortfolio
 markdown: redcarpet
 pygments: true
 
-relative_permalinks: true
 baseurl: /ePortfolio-jekyll
