@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  “Defeat of Jesse James Days”
+title:  “Defeat of Jesse James Days” — The Assignment
 date:   2013-09-05 13:34:35
-categories: djjd eportfolio
+categories: djjd assignment
+authors: Prof. Kuchera
 ---
 
 ## Assignment: 
@@ -17,5 +18,3 @@ The DJJD is an annual Northfield festival that provides us a great chance to loo
 4. Take numerous photos of the site or activity. Afterward, choose just one photo that seems emblematic or especially rich for what they tell us about cultural practice as you see it in DJJD.
 5. For class on Tuesday, September 11, be prepared to describe your site or activity. What is valued? What is 'apparent'? What requires more background or context? Show your photo as part of your evidence for your analysis.
 6. Post one page that includes your thesis about the cultural presentation and assumptions of DJJD and your supporting evidence to your e-portfolio. You may choose to link your project among the members of your group.
-
-## Thoughts:
