@@ -6,7 +6,7 @@ categories: djjd reflection
 authors: Jimmy, RJ, Sam, Hawken
 ---
 
-![Picture of the DJJD car show]({{ site.url }}/assets/djjd-car-show.jpg)
+![Picture of the DJJD car show]({{ site.baseurl }}/assets/djjd-car-show.jpg)
 
 The values of the car show are clearly those of dedication and hard work. The people who refurbish the cars take pride in the time and effort put into their vehicles, and want to display the fruits of their labor. It is almost like an art museum in how each car is prominently labeled with the make, model, year, and owner. They see their cars as masterpiece projects, not mere transportation.
 
